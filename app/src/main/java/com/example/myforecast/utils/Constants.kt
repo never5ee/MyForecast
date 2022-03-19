@@ -14,5 +14,8 @@ object Constants {
     //Constants for Retrofit
     const val BASE_URL = "https://openweathermap.org/"
 
+    //For Activity
+    const val EXTRA_NAME = "extra_name"
+
 
 }
