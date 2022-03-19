@@ -1,0 +1,10 @@
+package com.example.myforecast.api.model
+
+data class Main(
+    val feels_like: Double,
+    val grnd_level: Int,
+    val humidity: Int,
+    val pressure: Int,
+    val sea_level: Int,
+    val temp: Double,
+)
