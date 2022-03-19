@@ -9,7 +9,7 @@ import com.example.myforecast.api.model.Wind
 @Entity(tableName = "forecast_list")
 data class ForecastEntity(
     @PrimaryKey
-    val name: String?,
+    val name: String,
     @Embedded
     val main: Main?,
     @Embedded
