@@ -12,7 +12,7 @@ object Constants {
     const val DATABASE_NAME = "Forecast"
 
     //Constants for Retrofit
-    const val BASE_ULR = "https://openweathermap.org/"
+    const val BASE_URL = "https://openweathermap.org/"
 
 
 }
